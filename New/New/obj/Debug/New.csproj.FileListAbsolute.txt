@@ -1,0 +1,16 @@
+D:\Project\New\New\bin\Debug\New.exe.config
+D:\Project\New\New\obj\Debug\New.csprojResolveAssemblyReference.cache
+D:\Project\New\New\obj\Debug\MainWindow.g.cs
+D:\Project\New\New\obj\Debug\App.g.cs
+D:\Project\New\New\obj\Debug\New_Content.g.cs
+D:\Project\New\New\obj\Debug\New_MarkupCompile.cache
+D:\Project\New\New\obj\Debug\New_MarkupCompile.lref
+D:\Project\New\New\bin\Debug\New.exe
+D:\Project\New\New\bin\Debug\New.pdb
+D:\Project\New\New\bin\Debug\Newtonsoft.Json.dll
+D:\Project\New\New\obj\Debug\MainWindow.baml
+D:\Project\New\New\obj\Debug\New.g.resources
+D:\Project\New\New\obj\Debug\New.Properties.Resources.resources
+D:\Project\New\New\obj\Debug\New.csproj.GenerateResource.Cache
+D:\Project\New\New\obj\Debug\New.exe
+D:\Project\New\New\obj\Debug\New.pdb
